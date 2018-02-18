@@ -1,3 +1,83 @@
 .jumbotron {
   margin-top: 1em;  // add a little space
 }
+
+.contact{
+  color:black!important;
+  font-size:x-large;
+  green:gray;
+}
+.green-txt{
+  color:green;
+ text-align:center;
+}
+.img-align{
+  padding-left:380px;
+
+}
+.map-size{
+  float:right;
+  width: 180px;
+  padding-right: 20px;
+  border-radius:15%;
+}
+.text1{
+
+}
+.text2{
+  margin-top:20px;
+}
+.samesized-text{
+  font-size:20px;
+  color: red;
+}
+.smallsized-text{
+  font-size:14px;
+}
+.input-yes{
+  margin-right:100px;
+}
+body{
+  background-color: rgb(179, 179, 204);
+  color:white;
+}
+.body1{
+  width:90%;
+}
+.rectangle1{
+  width:60px;
+  length:40px;
+  background-color: black;
+}
+.circle1{
+  width:100px;
+  background-color: black;
+  border-radius: 50%;
+}
+.form1{
+  margin-top:250px;
+  padding-left:100px;
+  font-family:Lobster;
+}
+.span1{
+  font-family: Lobster;
+  font-size:18px;
+}
+.text3{
+  color:gray;
+}
+.box-size{
+  width:180px;
+  height: 30px;
+}
+.element1{
+  display:inline-block;
+  float:left;
+
+
+}
+.element2{
+  display:inline-block;
+  float:right;
+}
+
